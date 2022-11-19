@@ -270,6 +270,9 @@ If you want to process your own dataset and obtain molecular images, use the fol
 
 # Reference
 If you use ImageMol in scholary publications, presentations or to communicate with your satellite, please cite the following work that presents the algorithms used:
+
+Zeng, X., Xiang, H., Yu, L. et al. Accurate prediction of molecular properties and drug targets using a self-supervised image representation learning framework. Nat Mach Intell 4, 1004–1016 (2022). https://doi.org/10.1038/s42256-022-00557-6
+
 ```bib
 @article{zeng2022accurate,
   title={Accurate prediction of molecular targets using a self-supervised image representation learning framework},
